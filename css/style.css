@@ -1,0 +1,35 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Special Elite', cursive;
+}
+
+h1{
+  text-align: center;
+  color: #d3a625;
+}
+
+h4, h2{
+  color: #696969;
+  text-align: center;
+}
+
+div{
+  text-align: center;
+}
+
+img{
+  width: 50%;
+}
+
+button{
+  color: white;
+  border-radius: 2px;
+  border: 1px solid grey;
+  background-color: #696969;
+  font-family: 'Special Elite', cursive;
+  padding: 10px;
+  cursor: pointer;
+}
+
